@@ -1,0 +1,2 @@
+# Wily
+Setting up git.
